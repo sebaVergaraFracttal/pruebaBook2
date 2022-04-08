@@ -4,5 +4,5 @@
 
 {% embed url="https://codesandbox.io/embed/fracttal-frame-forked-87e71t?fontsize=14&hidenavigation=1&initialpath=%2FconsultarActivo&theme=dark" %}
 
-{% embed url="https://react-iframe-sv.herokuapp.com" %}
+{% embed url="https://testapi.fracttal.com" %}
 
